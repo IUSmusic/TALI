@@ -1,5 +1,12 @@
 # TALI-H
 
+
+![TALI](./ProjectOverview.png)
+
+![TALI](./UniversalTALIDock.png)
+
+
+
 TALI-H is the hand-arm module of the system. It is designed as the close-range manipulation model, meaning its primary function is to give the wearer additional working arms for gripping, holding, stabilising, tool use, machinery interaction, and quadrimanual coordination. From a design perspective, TALI-H should be treated as a pair of compact auxiliary robotic arms mounted from the thoracic docking points but engineered for precision and practical object handling rather than visual imitation of biological arms. The arms should remain short enough to work safely around the torso and natural arms, with fold-away resting positions that do not obstruct walking, sitting, or ordinary upper-body movement. From an engineering perspective, TALI-H requires modular wrists, interchangeable end-effectors, force sensing, compliant grasping, and a control system that allows the wearer to issue intent-level commands such as hold, release, grip, brace, stabilise, or pass object, while the onboard controller manages joint coordination, grip force, and collision avoidance. The hands do not need to be flesh-like; they should be selected according to task class, using adaptive robotic hands for dexterous manipulation and industrial grippers or clamps for heavy equipment support.
 
 # TALI-W
